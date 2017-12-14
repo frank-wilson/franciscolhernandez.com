@@ -3,6 +3,7 @@ layout: post
 title: "Great beginner songs"
 date: 2017-01-09 15:39:00 +0800
 categories: guitar
+permalink: /beginner-songs
 ---
 
 With enough practice, you can learn any song, even the more difficult ones like [Van Halen's "Eruption"](https://youtu.be/sI7XiJgt0vY), but such an advanced song will take a beginner a long time to master. That's why I would like to suggest a few lists of songs that help beginners with the difficult learning curve. When you are finished with this list, you will notice that learning advanced songs will take less time. 

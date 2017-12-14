@@ -44,21 +44,21 @@ body {
 —————————————————————————————————————————————————— */
 
 .blinking_underscore {
-  -webkit-animation: blinking_underscore_frame 1.5s infinite ease;
+/*  -webkit-animation: blinking_underscore_frame 1.5s infinite ease;
   -moz-animation: blinking_underscore_frame 1.5s infinite ease;
   -ms-animation: blinking_underscore_frame 1.5s infinite ease;
   -o-animation: blinking_underscore_frame 1.5s infinite ease;
   animation: blinking_underscore_frame 1.5s infinite ease;
-}
+*/}
 
 .logo {
   margin-bottom:12.5px;
   font-weight:$font-weight-bold;
 }
 .logo a {
-  -webkit-transition:.4s;
+/*  -webkit-transition:.4s;
   transition:.4s;
-}
+*/}
 
 .logo a:hover {
   color:#222;

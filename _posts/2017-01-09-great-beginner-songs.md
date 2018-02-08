@@ -26,7 +26,6 @@ Or small snippets of popular songs:
 * Enter Sandman - Metallica (intro)
 * Seven Nation Army - The White Stripes (intro)
 * Today - Smashing Pumpkins (intro)
-* Reptilia - New Hit Song
 
 You can also include songs that have easy parts in them. 
 
